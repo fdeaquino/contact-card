@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+
+# .gitignore from Starter Code 
+node_modules/
+dist/
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env
